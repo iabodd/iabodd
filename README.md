@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Full-Stack Developer, FiveM Scripter & Founder of Vontex Store.<br>⚡ Specialized in custom FiveM resources (Lua, ESX, QBCore) and interactive NUI interfaces.<br>🤖 Developing scalable Discord.js applications, and web automation scripts.<br>💻 Languages & Tech: Lua, Python, Golang, JavaScript, TypeScript, React, HTML, CSS, and SQL.
+👋 Full-Stack Developer, FiveM Scripter & Owner of Vontex Store.<br>⚡ Specialized in custom FiveM resources (Lua, ESX, QBCore) and interactive NUI interfaces.<br>🤖 Developing scalable Discord.js applications, and web automation scripts.<br>💻 Languages & Tech: Lua, Python, Golang, JavaScript, TypeScript, React, HTML, CSS, and SQL.
 
 
 ## 🌐 Socials:
